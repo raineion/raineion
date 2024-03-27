@@ -6,3 +6,5 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter" />
   </a>
 </p>
+
+![Metrics](https://metrics.lecoq.io/raineion)
