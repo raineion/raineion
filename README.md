@@ -1,1 +1,1 @@
-![Metrics](https://github.com/raineion/raineion/blob/main/metrics.yml)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raineion)](https://github.com/raineion/github-readme-stats)
