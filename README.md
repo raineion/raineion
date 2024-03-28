@@ -1,4 +1,6 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=raineion&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=raineion)
+[![Build and Deploy](https://github.com/kratostaine/spring-authorization-server/actions/workflows/continuous-integration-workflow.yml/badge.svg)](https://github.com/kratostaine/spring-authorization-server/actions/workflows/continuous-integration-workflow.yml)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=C8C8C8&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Page!+👋;+I'm+Daniel+Martinez!+🧑‍💻;" />
@@ -28,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://danielmj.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
