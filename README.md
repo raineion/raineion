@@ -1,4 +1,4 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=raineion&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=raineion)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=C8C8C8&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Page!+👋;+I'm+Daniel+Martinez!+🧑‍💻;" />
