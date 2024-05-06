@@ -7,7 +7,7 @@
 
 <br/>
 <div align="center">
- 
+
  🔭 I’m currently working on **a app**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
